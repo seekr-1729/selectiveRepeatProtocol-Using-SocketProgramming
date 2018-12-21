@@ -2,6 +2,7 @@
 
 
 Compile both client_src.c and server_src.c with gcc :
+
       _> gcc server_src.c -o server
       _> gcc client_src.c -o client
       
