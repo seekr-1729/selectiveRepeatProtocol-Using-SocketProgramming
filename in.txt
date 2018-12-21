@@ -1,0 +1,8 @@
+
+Named Data Networking: Motivation & Details
+
+NDN is an entirely new architecture, but one whose design principles are derived from the successes of today’s Internet, reflecting our understanding of the strengths and limitations of the current Internet architecture, and one that can be rolled out through incremental deployment over the current operational Internet.
+Context and Vision
+
+In the 1960s and 70s when the core ideas underlying the Internet were developed, telephony was the only example of successful, effective, global-scale communications. Thus while the communication solution offered by TCP/IP was unique and groundbreaking, the problem it solved was telephony’s: carrying a point-to-point conversation between two entities. IP has exceeded all expectations for facilitating ubiquitous interconnectivity and so enabled dramatic changes in the world that we associate with the Internet.
+
